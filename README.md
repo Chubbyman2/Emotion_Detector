@@ -7,7 +7,7 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 
 https://drive.google.com/drive/folders/1bCFKTkmItIZl73YNUq5QXppLpIdmTgUv
 
-Method used to Increase Accuracy of the Model:
+Methods used to Increase Accuracy of the Model:
 
 -Data Generator, used on training set: rotations, shearing, horizontal and vertical shifts, zooms, horizontal flip, shuffling dataset
 
