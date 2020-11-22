@@ -25,3 +25,11 @@ Result:
 First Round of Training: Final Accuracy = 47.29%, Validation Accuracy = 38.38%
 
 Second Round of Training: Final Accuracy = 58.33%, Validation Accuracy = 54.99%
+
+For the OpenCV detection code, the Haar Cascade algorithm was used to detect faces from the webcam's input. Originally proposed in the paper titled "Rapid Object Detection using a Boosted Cascade of Simple Features", the Haar Cascade algorithm returns the coordinates of the corners of a rectangle drawn around the face of the person. This allows for the classification of a cropped image of the person's face, rather than the whole input image, which improves accuracy.
+
+Link to the original paper and code:
+
+https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
