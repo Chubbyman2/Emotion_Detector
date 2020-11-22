@@ -22,4 +22,6 @@ Methods used to Increase Accuracy of the Model:
 
 Result:
 
-Final Accuracy = 47.29%, Validation Accuracy = 38.38%
+First Round of Training: Final Accuracy = 47.29%, Validation Accuracy = 38.38%
+
+Second Round of Training: Final Accuracy = 58.33%, Validation Accuracy = 54.99%
